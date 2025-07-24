@@ -43,8 +43,8 @@ Each file is handling the requested tasks for each class.
 You can run the code at each step to see the progression of the answer to assignment.
 Upon completion of python code review, you can open the R file.
 
-In the R file, you can see the step by step structure of the code same as that of the python version.
-The function and return coding are at the last stage of the file.
+In the R file, you can see the summary of the python code in the previous files.
+The policy management commands can be found at the end of the file.
 
 ---
 
