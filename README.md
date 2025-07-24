@@ -28,7 +28,7 @@ The files for this module 2 assignment is uploaded to GitHub. Link to the GitHub
 To be able to read, use and run the files, you need to have installed on your computer both the python and R program.
 For python, you can go to https://www.python.org/downloads/ 
 For R, you can go to https://cran.r-project.org/
-To access the Github repository, go to the URL 
+To access the Github repository, go to the URL https://github.com/Kinta264/Nexford-BAN6420-Module-3-Assignment/tree/main
 
 ---
 
