@@ -54,14 +54,12 @@ I credit the youtube channels below for my beginner study in programming/coding:
 https://www.youtube.com/@freecodecamp
 https://www.youtube.com/@programmingwithmosh
 
-For salary data analysis, I derive info from below shared code:
-https://www.kaggle.com/code/hasnamohamed/san-francisco-salaries-analysis
-https://www.kaggle.com/code/mahmoudelhout/sf-salaries-data-analysis-ml
-https://www.kaggle.com/code/chawthinn21/san-francisco-salaries-data-analysis-with-pandas
+For dealing with OOP, I derive info from below shared code:
+https://www.kaggle.com/code/yldzburhan/data-science-python-programming-tutorial
+https://www.kaggle.com/code/raskoshik/tutorial-object-oriented-programming-in-python
 
 And for the creation of this readme file, I use sample from:
 https://www.youtube.com/watch?v=7Tk15l23Ctg 
-
 
 ---
 
@@ -70,4 +68,4 @@ https://www.youtube.com/watch?v=7Tk15l23Ctg
 You can contact me at email below.
 
 - Email: kinta.petonia@gmail.com
-- Github: https://github.com/Kinta264/Nexford-Python-R-Module-2-Assignment/commits?author=Kinta264
+- Github:(https://github.com/Kinta264)
