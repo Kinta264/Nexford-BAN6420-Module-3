@@ -19,7 +19,7 @@ This readme file is to be used as guide for the code running of the module 3 ass
 
 ## **Access**
 
-The files for this module 2 assignment is uploaded to GitHub. Link to the GitHub repository will be shared.
+The files for this module 3 assignment is uploaded to GitHub. Link to the GitHub repository will be shared.
 
 ---
 
@@ -34,9 +34,12 @@ To access the Github repository, go to the URL https://github.com/Kinta264/Nexfo
 
 ## **Usage**
 
-You are recommended to use the python file first.
-The assignment is structured to begin with importing the libraries and salary data.
-After checking the formatting and data summary, we try to clean the data for proper and reliable analysis.
+You are recommended to open the python files first.
+The assignment has requested to split the python file into 3 separate files for the 3 different classes of policy holder, policy product and payment.
+File Module 3 Kp1 deals with the policy holder.
+File Module 3 Kp2 deals with the policy product.
+File Module 3 Kp3 deals with the payment.
+Each file is handling the requested tasks for each class.
 You can run the code at each step to see the progression of the answer to assignment.
 Upon completion of python code review, you can open the R file.
 
